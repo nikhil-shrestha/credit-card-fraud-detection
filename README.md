@@ -15,8 +15,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ### EDA
 
-- Look at the distribution of the Time, Amount and Class column
-- Experience the horrible imbalancy
+- Distribution of the Time, Amount and Class column
 
 ![alt text](https://github.com/nikhil-shrestha/credit-card-fraud-detection/blob/master/images/distribution_time.png?raw=true) 
 
